@@ -8,7 +8,7 @@ module.exports = [
     link: '/guide/'
   },
   {
-    text: '博客',
+    text: 'Blog',
     link: 'https://blog.lierhua.top/'
   }
 ]
