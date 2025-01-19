@@ -12,5 +12,5 @@ features:
   details: 小猫速记不会打断当前工作流，保留当前工作现场，记录完成后，马上切换回原工作流！
 - title: 可扩展
   details: 小猫速记不仅可以记录到本地文件夹，配置 token 后，可在各 APP 内查看记录的灵感信息（开发中）
-footer: Build By 李二花️ | Copyright © 2025-present CatNote
+footer: Build By 李二花️ | Copyright © 2025-present KittyMemo
 ---

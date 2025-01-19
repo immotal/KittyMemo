@@ -4,7 +4,7 @@ module.exports = ctx => ({
   locales: {
     '/': {
       lang: 'en-US',
-      title: 'CatNote',
+      title: 'KittyMemo',
       description: 'Record inspiration quickly without interrupting the workflow, ready to jot down on the go.'
     },
     '/zh/': {

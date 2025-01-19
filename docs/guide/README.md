@@ -2,7 +2,7 @@
 
 ## App Introduction
 
-CatNote is an app for macOS that allows users to quickly record information without interrupting their workflow. This includes capturing fleeting inspirations, noting down ad-hoc tasks assigned on the fly, and retaining information from conversations with colleagues.
+KittyMemo is an app for macOS that allows users to quickly record information without interrupting their workflow. This includes capturing fleeting inspirations, noting down ad-hoc tasks assigned on the fly, and retaining information from conversations with colleagues.
 
 ## Core Features
 
