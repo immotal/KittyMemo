@@ -15,8 +15,9 @@
 
 ### 安装
 
-下载 App 后，复制或者拖放到「应用程序」内即可，[下载地址请点击这里](https://github.com/immotal/KittyMemo/releases/tag/v1.0.0)。
+下载 App 后，复制或者拖放到「应用程序」内即可，[下载地址请点击这里](https://github.com/immotal/KittyMemo/releases)。
 
+如果点击此链接无法加载，说明无法访问 Github 地址，请从此[备用地址](https://pan.baidu.com/s/14QpN3ec73ybiPJc8VDG0Lg?pwd=1026)下载最新版本
 
 ### [权限与隐私](https://support.apple.com/zh-cn/guide/mac-help/mh40616/mac)
 因为是第三方 App，没有经过 app store 的校验，因此点击 App 图标后，第一次会弹出一个警告对话框，这个时候需要按照以下流程进行操作即可正常安装 App。

@@ -3,8 +3,8 @@ home: true
 heroImage: /logo.png
 heroText: CatNote
 tagline: Record inspiration quickly without interrupting the workflow, ready to jot down on the go.
-actionText: Download Now →
-actionLink: https://github.com/immotal/KittyMemo/releases/tag/v1.0.0
+actionText: Download Now (Github) →
+actionLink: https://github.com/immotal/KittyMemo/releases
 features:
 - title: Swift
   details: CatNote allows you to take quick notes without switching apps. Once installed, simply double-tap the Option key to open a floating note dialog box for fast recording!

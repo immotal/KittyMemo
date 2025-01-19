@@ -14,7 +14,9 @@ Once the recording is finished, the recording box closes automatically, and the 
 
 ### Installation
 
-After downloading the app, copy or drag it into the "Applications" folder. [Click here to download](https://github.com/immotal/KittyMemo/releases/tag/v1.0.0).
+After downloading the app, copy or drag it into the "Applications" folder. [Click here to download](https://github.com/immotal/KittyMemo/releases).
+
+[Backup download address](https://pan.baidu.com/s/14QpN3ec73ybiPJc8VDG0Lg?pwd=1026)
 
 ### [Permissions and Privacy](https://support.apple.com/zh-cn/guide/mac-help/mh40616/mac)
 As a third-party app not verified through the App Store, clicking on the app icon for the first time will prompt a warning dialog. Follow these steps to install the app properly:

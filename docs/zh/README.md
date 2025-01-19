@@ -3,8 +3,8 @@ home: true
 heroImage: /logo.png
 heroText: 小猫速记
 tagline: 不打断工作流程，快速记录灵感信息，立记可走
-actionText: 点击下载 →
-actionLink: https://github.com/immotal/KittyMemo/releases/tag/v1.0.0
+actionText: 点击下载（Github） →
+actionLink: https://github.com/immotal/KittyMemo/releases
 features:
 - title: 快速
   details: 小猫速记没有切换 APP 的过程，记录速度快，安装完成后，只需双击 option 键即可开启悬浮记录对话框！

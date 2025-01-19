@@ -57,3 +57,11 @@ $HOME 代表家目录，一般在访达（Finder）的左侧边栏， 如果没�
 ::: warning 隐藏目录
 `.` 开头的是隐藏目录和文件，一般情况下在 Mac 的访达中是无法直接看到的（命令行不受影响），可以使用 `Command + Shift + .` 即可显示隐藏文件
 :::
+
+---
+
+docs 使用 npm 版本 v20.9.0
+
+npm run dev
+
+npm run build
