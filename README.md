@@ -15,23 +15,24 @@
 
 ### 安装
 
-下载 App 后，复制或者拖放到「应用程序」内即可，[下载地址请点击这里](https://www.baidu.com)。
+下载 App 后，复制或者拖放到「应用程序」内即可，[下载地址请点击这里](https://github.com/immotal/KittyMemo/releases)。
 
+如果点击此链接无法加载，说明无法访问 Github 地址，请从此[备用地址](https://pan.baidu.com/s/14QpN3ec73ybiPJc8VDG0Lg?pwd=1026)下载最新版本
 
 ### [权限与隐私](https://support.apple.com/zh-cn/guide/mac-help/mh40616/mac)
 因为是第三方 App，没有经过 app store 的校验，因此点击 App 图标后，第一次会弹出一个警告对话框，这个时候需要按照以下流程进行操作即可正常安装 App。
 
 ::: warning 流程
 - 在 Mac 上，选取苹果菜单  > 「系统设置」，然后点按边栏中的「隐私与安全性」。（你可能需要向下滚动或者仔细查找）
- 
+
 - 前往「安全性」，然后点按「打开」。
- 
+
 - 点按「仍要打开」。
- 
+
 - 此按钮在你尝试打开该 App 后一小时内可用。
- 
+
 - 输入你的登录密码，然后点按「好」即可。
-:::
+  :::
 
 ### 配置文件
 
